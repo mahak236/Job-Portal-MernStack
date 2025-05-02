@@ -113,14 +113,9 @@ Follow these steps to set up the project locally and start using Instant Jobs.
 5. Push to the branch (`git push origin feature-branch`).
 6. Open a pull request.
 
-## 📄 License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## 📬 Contact
 
-For any inquiries, please contact [omraj0100@gmail.com](mailto:your-email@example.com).
 
----
 
-Thank you for using Instant Jobs! We hope it helps you find the perfect job or the ideal candidate with ease. 🚀
+
