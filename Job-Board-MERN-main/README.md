@@ -1,6 +1,6 @@
-# 🚀 Instant Jobs
+# 🚀 Job Portal
 
-Instant Jobs is a powerful web application designed to seamlessly connect job seekers with employers. Built with the MERN stack, it offers a user-friendly interface for posting and applying for jobs.
+ Job Portal is a powerful web application designed to seamlessly connect job seekers with employers. Built with the MERN stack, it offers a user-friendly interface for posting and applying for jobs.
 
 
 ## ✨ Features
